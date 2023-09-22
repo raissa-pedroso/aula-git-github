@@ -7,6 +7,36 @@
     <title>Document</title>
 </head>
 <body>
-    olá mundo!  
+    <table>
+        <thead>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>CPF</th>
+            <th colspan="2">Opções</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
